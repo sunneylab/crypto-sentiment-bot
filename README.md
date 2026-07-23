@@ -152,3 +152,7 @@ The dependency direction is intentional: domain and analysis code do not know ab
 ## Disclaimer
 
 Sentiment results can be noisy, delayed, biased, or wrong. Outputs are for personal research only and are not investment, legal, tax, or other professional advice. Users are responsible for their own decisions and consequences.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
