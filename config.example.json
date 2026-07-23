@@ -1,0 +1,9 @@
+{
+  "interval_seconds": 900,
+  "feeds": [
+    "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "https://cointelegraph.com/rss"
+  ],
+  "positive_words": ["bullish", "surge", "rally", "adoption", "approval", "gain", "positive", "strong"],
+  "negative_words": ["bearish", "crash", "dump", "hack", "lawsuit", "ban", "loss", "negative", "weak", "risk"]
+}

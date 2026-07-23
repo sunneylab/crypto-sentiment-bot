@@ -1,0 +1,9 @@
+config.json
+data/
+__pycache__/
+*.pyc
+articles.json
+articles.csv
+data/analytics.json
+data/health.json
+data/snapshot.json
